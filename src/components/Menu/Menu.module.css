@@ -1,0 +1,31 @@
+.menu {
+    background: #A3ADD1;
+}
+
+h1.logo {
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    letter-spacing: -2px;
+}
+
+a:link,
+a:active,
+a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu li a {
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.menu li a:hover {
+    text-decoration: none;
+    background: #1f3c58;
+    color: #ebebeb;
+}
